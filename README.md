@@ -61,4 +61,4 @@ Planned stages after the Android MVP, in order:
 
 ## Design preview
 
-assets/images/thumbnail
+![Thumbnail](./assets/images/thumbnail)
