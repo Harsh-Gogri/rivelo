@@ -60,3 +60,5 @@ Planned stages after the Android MVP, in order:
 - EAS for cloud builds and store submission
 
 ## Design preview
+
+assets/images/thumbnail
